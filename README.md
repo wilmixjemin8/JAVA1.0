@@ -1,10 +1,8 @@
 # JAVA1.0
 -----------
 
-   JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  CDollar Technology  by    wilmix  jemin  j  at  year  2014. 
-Since   J2ee ,  Struts  ,Spring  ,JSF  fails   to interact  with  JDollar.  Since  Struts ,Spring  project 
-
-size  will   not  fit  into  Wilmix  cat  server.  AND  JAVA1.0   is  the   Part  of  JITTECHSECTION-1.
+   JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  CDollar Technology  by    wilmix  jemin  j  
+   at  year  2014. Since   J2ee ,  Struts  ,Spring  ,JSF  fails   to interact  with  JDollar.  Since  Struts ,Spring  project size  will   not  fit  into  Wilmix  cat  server.  AND  JAVA1.0   is  the   Part  of  JITTECHSECTION-1.
  
  
 
@@ -48,6 +46,8 @@ size  will   not  fit  into  Wilmix  cat  server.  AND  JAVA1.0   is  the   Part
  
  g)  JAVA1.0   Directly  interacts  with  Security  WDBAJ$  database.
  
+ h)   Those   who  learn   JAVA1.0   can  easily   learn  JDollar.
+ since   JDOLLAR1.0   And  JAVA1.0   are  brothers.
  
  Program-1:
  ----------
