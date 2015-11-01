@@ -2,8 +2,11 @@
 -----------
 
    JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  CDollar Technology  by    wilmix  jemin  j  
+   
    at  year  2014.  AND  JAVA1.0   is  the   Part  of  JITTECHSECTION-1.
+   
  It   is   the   10th  Most  Advanced  technology.
+ 
  JAVA 1.0   is  greater  than   all  JAVA  versions JDk1.8  and  so on.
  
  
@@ -39,7 +42,7 @@
  c)  IT's  compiles  and  run    the   Program   on  the  same  time.
  
  
- d) JAVA1.0   is  mostly  used   with  Sling v.1  os.
+ d) JAVA1.0   is  mostly  used   with  GALAXY  os.
  
  e)  It   works  in  all   Unix  type  OS   and   Windows  Type  os.
  
@@ -51,9 +54,25 @@
  
  h)   Those   who  learn   JAVA1.0   can  easily   learn  JDollar.
  
+ i)  ANY  JAVA   professionals  can  easily   learn  JAVA1.0
+ 
+ 
+ 
+ Note:  One   should  learn   CDollar  to  focus   on JAVA1.0  Technology.
+ ----
+ after   that  JAVA  Professionals   will  focus  on  JSHARP Technology
+ 
+ of  JDollar  part2. Since  JAVA 1.0  cloud  computing   Technology - JSHARP
+ 
+ is   already   implemented. SO  there  is  no need  for  additional server implementation
+ 
+ for  JAVA1.0. And  JSHARP  uses  only  JAVA 1.0 compiler.
+ 
+ 
  JAVA 1.0  is  the Light   weighted   technology  than   JAVA technology.
  
  since   JDOLLAR1.0   And  JAVA1.0   are  brothers.
+ 
  
  Program-1:
  ----------
