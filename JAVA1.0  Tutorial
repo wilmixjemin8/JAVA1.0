@@ -1,0 +1,214 @@
+
+ 
+
+JAVA1.0  Tutorial
+-----------------
+
+Program -1: Using  ArrayList
+----------
+
+<JAVA>
+@Package
+<%
+public  class  abc
+{
+public void  JAVA-Main( )  throws  <EXE>
+{
+JAVA.out.writeln("wilmix  is  good");
+
+<ARRAYLIST> a  =   <NEW>  <ARRAYLIST>();
+a.add("wilmix");
+a.add("wilmix");
+JAVA.out.writeln(""+a.StringConvert());
+
+}
+}
+
+%>
+
+</JAVA>
+
+
+
+JAVA 1.0 -JIT Techsection1  Compiler Copy right  2014 C All  rights  reserved
+                      
+                      
+OUTPUT = Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 9: reading configurations from ~/.fonts.conf is deprecated.
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 9: reading configurations from ~/.fonts.conf is deprecated.
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 9: reading configurations from ~/.fonts.conf is deprecated.
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 9: reading configurations from ~/.fonts.conf is deprecated.
+Fontconfig warning: "/etc/fonts/conf.d/50-user.conf", line 9: reading configurations from ~/.fonts.conf is deprecated.
+
+*********************************************************************************************
+Sun Nov 29 20:17:56 GMT+00:00 2015*JAVA1.0: wilmix  is  good[wilmix, wilmix]
+
+
+
+
+Note:
+------
+
+compile the  program  by  using  abc.jav
+
+
+
+Program -2: Create  a  Pyramid  program  in Java1.0
+----------------------------------------------------
+
+longestpal.jav
+--------------
+
+<JAVA>
+@Package
+<%
+
+
+
+
+public class longestpal
+{
+public void  JAVA-Main( )  throws  <EXE>
+{
+for(int i=5; i>0 ;i--){
+                       
+                        for(int j=0; j < i; j++){
+                                JAVA.out.writeln(""+j+1);
+                               
+                                
+                        }
+                       JAVA.out.writeln(""+ " ");
+                        
+                }
+ 
+ 
+}
+}
+
+
+%>
+
+</JAVA>
+
+Note:
+------
+
+compile the  program  by  using  longestpal.jav
+
+Output:
+
+
+*********************************************************************************************
+Sun Nov 29 20:39:09 GMT+00:00 2015*JAVA1.0: 0111213141 01112131 011121 0111 01 
+
+
+
+
+Program -3 : EVENORODD
+----------------------
+
+
+<JAVA>
+@Package
+<%
+public  class  EVENORODD
+{
+public void  JAVA-Main( )  throws  <EXE>
+{
+JAVA.out.writeln("Check  Whether  the  Given   No  is    ODD   or  EVEN :?");
+
+
+
+String t="1002";
+
+int  t1=Integer.<PARSE>Int(t)%2;
+
+if  (t1==0)
+
+JAVA.out.writeln("Even  No  is ="+t);
+
+else
+
+
+JAVA.out.writeln("ODD  No  is"+t);
+
+
+
+
+
+
+}
+}
+
+%>
+
+</JAVA>
+
+
+Program -4: animate.jav
+
+
+<JAVA>
+@Package
+<%
+ class  animate <--- Graphics 
+
+{
+
+
+
+
+
+
+public void  JAVA-Main( )  throws  <EXE>
+{
+abr  a  = <NEW> abr();
+
+
+
+
+
+ a.<SIZE>(500,700);
+     
+     a.<FLOWLAYOUT>
+ a.<VISIBLE=TRUE>
+    
+
+}
+
+
+Shared  class abr  <--- animate
+{
+<PAINT>
+
+{
+
+<SETCOLOUR>(COLOR=orange);
+for(int  i1=0; i1<=1400;i1++)
+for(int  i=0; i<=1400;i++)
+{
+
+
+<RECT>(100,10+i1,60,50+i1);
+<RECT>(500,10+i1,60,50+i1);
+<RECT>(100+i1,10,60+i1,50);
+<RECT>(500+i1,10,60+i1,50);
+}
+
+<SETCOLOUR>(COLOR=blue);
+<DRAWTEXT>("SLING V.1 Developed  by WSIT @ 2015",200,400);
+
+}
+
+
+
+
+
+
+
+}
+}
+
+
+%>
+
+</JAVA>
