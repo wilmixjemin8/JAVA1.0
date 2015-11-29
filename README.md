@@ -58,6 +58,14 @@
  
  j)  JAVA1.0  also  support  Loosley  coupling  ..
  
+ k)  JAVA1.0  also  support  int ,float  digits  of  length  1 * 10  ^ 10000.
+ 
+ So  this  is  the  major   Advantage  of  JAVA1.0.
+ 
+ l)  It  Saves  Time  and  Cost...
+ 
+ 
+ 
  Note:  One   should  learn   CDollar  to  focus   on JAVA1.0  Technology.
  ----
  after   that  JAVA  Professionals   will  focus  on  JSHARP Technology
