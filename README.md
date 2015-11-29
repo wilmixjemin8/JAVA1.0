@@ -56,7 +56,7 @@
  
  i)  ANY  JAVA   professionals  can  easily   learn  JAVA1.0
  
- 
+ j)  JAVA1.0  also  support  Loosley  coupling  ..
  
  Note:  One   should  learn   CDollar  to  focus   on JAVA1.0  Technology.
  ----
