@@ -68,9 +68,8 @@
  
  Note:  One   should  learn   CDollar  to  focus   on JAVA1.0  Technology.
  ----
- after   that  JAVA  Professionals   will  focus  on  JSHARP Technology
- 
- of  JDollar  part2. Since  JAVA 1.0  cloud  computing   Technology - JSHARP
+
+ for  JDollar  part2. Since  JAVA 1.0  cloud  computing   Technology - JSHARP
  
  is   already   implemented. SO  there  is  no need  for  additional server implementation
  
