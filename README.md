@@ -1,7 +1,7 @@
 # JAVA1.0
 -----------
 
-   JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  CDollar Technology  by    wilmix  jemin  j  
+   JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  JDollar Technology  by    wilmix  jemin  j  
    
    at  year  2014.  AND  JAVA1.0   is  the   Part  of  JITTECHSECTION-1.
    
