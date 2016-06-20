@@ -23,3 +23,19 @@ SYNTAX  for  J$sharp  with  JAVA1.0
 </JAVA>
 
 
+
+JWEB with  JAVA1.0 syntax
+
+==========================
+
+<JAVA>
+
+
+<JPACK>
+
+<JLOGIC>
+<!  logic  of  JWEB  with  JAVA  goes here !>
+</JLOGIC>
+
+
+<?JAVA>
