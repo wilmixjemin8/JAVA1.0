@@ -1,7 +1,8 @@
+
 # JAVA1.0
 -----------
 
-   JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  JDollar Technology  by    wilmix  jemin  j  
+   JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  JAS Technology  by    wilmix  jemin  j  
    
    at  year  2014.  AND  JAVA1.0   is  the   Part  of  JITTECHSECTION-1.
    
@@ -50,9 +51,9 @@
  
  f)  It  is  an opensource  Technology.
  
- g)  JAVA1.0   Directly  interacts  with  Security  WDBAJ$  database.
+ g)  JAVA1.0   Directly  interacts  with  Security  WDBAJAS  database.
  
- h)   Those   who  learn   JAVA1.0   can  easily   learn  JDollar.
+ h)   Those   who  learn   JAVA1.0   can  easily   learn  JAS.
  
  i)  ANY  JAVA   professionals  can  easily   learn  JAVA1.0
  
@@ -69,7 +70,7 @@
  Note:  One   should  learn   CDollar  to  focus   on JAVA1.0  Technology.
  ----
 
- for  JDollar  part2. Since  JAVA 1.0  cloud  computing   Technology - JSHARP
+ for  JAS  part2. Since  JAVA 1.0  cloud  computing   Technology - JSHARP
  
  is   already   implemented. SO  there  is  no need  for  additional server implementation
  
@@ -78,7 +79,7 @@
  
  JAVA 1.0  is  the Light   weighted   technology  than   JAVA technology.
  
- since   JDOLLAR1.0   And  JAVA1.0   are  brothers.
+ since   JAS1.0   And  JAVA1.0   are  brothers.
  
  
  Program-1:
