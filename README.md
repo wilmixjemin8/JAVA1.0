@@ -2,11 +2,11 @@
 # JAVA1.0
 -----------
 
-   JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  JAS Technology  by    wilmix  jemin  j  
+   JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  JAS and  CDolar P.L by    wilmix  jemin  j  
    
    at  year  2014.  AND  JAVA1.0   is  the   Part  of  JITTECHSECTION-1.
    
- It   is   the   10th  Most  Advanced  technology.
+ It   is   the   10th  Most  Advanced  programming Language.
  
  JAVA 1.0   is  greater  than   all  JAVA  versions JDk1.8  and  so on.
  
@@ -49,7 +49,7 @@
  
  so  it  is   platform  independant.
  
- f)  It  is  an opensource  Technology.
+ f)  It  is  an opensource  programming Language.
  
  g)  JAVA1.0   Directly  interacts  with  Security  WDBAJAS  database.
  
@@ -67,7 +67,7 @@
  
  
  
- Note:  One   should  learn   CDollar  to  focus   on JAVA1.0  Technology.
+ Note:  One   should  learn   CDollar  to  focus   on JAVA1.0  Programming Language.
  ----
 
  for  JAS  part2. Since  JAVA 1.0  cloud  computing   Technology - JSHARP
@@ -77,7 +77,7 @@
  for  JAVA1.0. And  JSHARP  uses  only  JAVA 1.0 compiler.
  
  
- JAVA 1.0  is  the Light   weighted   technology  than   JAVA technology.
+ JAVA 1.0  is  the Light   weighted  P.L  than   JAVA P.L
  
  since   JAS1.0   And  JAVA1.0   are  brothers.
  
