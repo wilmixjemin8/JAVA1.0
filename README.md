@@ -2,7 +2,7 @@
 # JAVA1.0
 -----------
 
-   JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  JAS and  CDolar P.L by    wilmix  jemin  j  
+   JAVA 1.0   is  for  cloud computing  and  it   is    invented   in  JAS and  WEB P.L by    wilmix  jemin  j  
    
    at  year  2014.  AND  JAVA1.0   is  the   Part  of  JITTECHSECTION-1.
    
@@ -67,7 +67,7 @@
  
  
  
- Note:  One   should  learn   CDollar  to  focus   on JAVA1.0  Programming Language.
+ Note:  One   should  learn   WEB  to  focus   on JAVA1.0  Programming Language.
  ----
 
  for  JAS  part2. Since  JAVA 1.0  cloud  computing   Technology - JSHARP
@@ -114,7 +114,7 @@ JAVA.out.writeln("\t"+i);
  INPUT  and  OUTPUT
  -----------------
  
-root@GALAXY:/media/D/WSITSOFTWARES/JAVAcloud1.1/JAVA1.0# JAVA1.0 abcwilmix.jav
+JAVA1.0 abcwilmix.jav
 JAVA 1.0 -JIT Techsection1  Compiler Copy right  2014 C All  rights  reserved
       
 
